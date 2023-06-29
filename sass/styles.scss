@@ -1,0 +1,13 @@
+$primary : #d9e436;
+$success : #2cf440;
+$secondary : #fe20b0;
+$warning :  #2b41d1;
+$danger : #fe2020;
+
+@media(min-width: 992px){
+    .alto-100{
+        height: 100vh;
+    }
+}
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
